@@ -1,0 +1,19 @@
+﻿Project Title: 		B_hktn_22_esp_ds_lght
+Borard Title: 		Board1
+PCB Title: 		pcb
+Time: 		2022-10-02 09:40:23
+
+Borard Size: 		1500mil x 925mil
+Layers: 		Total 22, Copper 2
+
+Devices: 		14
+Footprints: 		9
+Components: 		Total 20,Top Layer 20,Bottom Layer 0
+Pads: 		Total 104, Table Stick 77,Metallized Hole 25, Nonmetallic Hole 2
+Nets: 		Total 26, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 57, Through Vias 57, Blind Or Buried Vais 0
+CopperAreas: 		2
+Length of Tracks: 		20269.6mil
+
